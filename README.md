@@ -28,6 +28,22 @@ To install this script on your system, follow these steps:
    ```bash
    cpu-temp
    ```
+## Portable installation
+
+1. **Download the package**:
+   Download the `cpu-temp-portable.sh` script from the releases section or build it manually (instructions below).
+2. **Elevate script permissions**:
+  After installation, you need to increase the rights for the script for it to work properly:
+
+   ```chmod +x
+   cpu-temp-portable.sh
+   ```
+3. **Run the command**:
+   When the rights are elevated, run the script:
+
+   ```
+   ./cpu-temp-portable.sh
+   ```
 
 ## Manual Installation (Optional)
 
