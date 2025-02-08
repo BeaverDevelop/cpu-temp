@@ -1,0 +1,8 @@
+Package: cpu-temp
+Version: 1.1
+Section: utils
+Priority: optional
+Architecture: all
+Depends: bc
+Maintainer: BeaverDev <dev@zal3n.xyz>
+Description: A script that shows the processor temperature.
