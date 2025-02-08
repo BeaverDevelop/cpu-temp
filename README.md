@@ -71,7 +71,3 @@ This will output the current CPU temperature in both Celsius and Fahrenheit.
 ## Dependencies
 
 - `bc` (used for calculating the temperature in Fahrenheit).
-
-## Contributing
-
-Feel free to fork the repository, open issues, or submit pull requests. Contributions are welcome!
