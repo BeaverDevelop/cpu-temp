@@ -36,7 +36,7 @@ If you'd prefer to build the `.deb` package yourself, follow these instructions:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/cpu-temp.git
+   git clone https://github.com/BeaverDevelop/cpu-temp.git
    cd cpu-temp
    ```
 
