@@ -1,5 +1,5 @@
 
-# CPU Temp Checker
+# CPU Temp 
 
 This simple script allows you to check your processor's temperature in both Celsius and Fahrenheit. The script can be installed as a package on your Linux system and executed via the `cpu-temp` command.
 
