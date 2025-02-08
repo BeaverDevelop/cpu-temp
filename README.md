@@ -36,7 +36,7 @@ To install this script on your system, follow these steps:
   After installation, you need to increase the rights for the script for it to work properly:
 
    ```
-   chmod +x cpu-temp-portable.sh
+   sudo chmod +x cpu-temp-portable.sh
    ```
 3. **Run the command**:
    When the rights are elevated, run the script:
