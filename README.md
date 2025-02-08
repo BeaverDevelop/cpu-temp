@@ -75,7 +75,3 @@ This will output the current CPU temperature in both Celsius and Fahrenheit.
 ## Contributing
 
 Feel free to fork the repository, open issues, or submit pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
