@@ -4,5 +4,5 @@ Section: utils
 Priority: optional
 Architecture: all
 Depends: bc
-Maintainer: BeaverDev <admin@lantsev.net>
+Maintainer: BeaverDev
 Description: A script that shows the processor temperature.
